@@ -1,5 +1,5 @@
 
-📈 Stock Price Prediction using LSTM
+1.  📈 Stock Price Prediction using LSTM
 In a volatile and dynamic market, accurate stock price predictions are essential for informed investment decisions. This project leverages Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN), to analyze historical stock data and forecast future prices.
 
 🔹 Key Features:
@@ -13,7 +13,7 @@ This project demonstrates the power of LSTMs in financial forecasting, offering 
 
 
 
-🚢 Titanic Survival Prediction using Machine Learning
+2.  🚢 Titanic Survival Prediction using Machine Learning
 This project predicts passenger survival on the Titanic using Machine Learning techniques. By analyzing historical passenger data, we identify key factors influencing survival probabilities.
 
 🔹 Key Features:
